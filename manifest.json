@@ -1,0 +1,8 @@
+{
+  "name": "BetterHUD",
+  "description": "Enhanced flight HUD with live instruments and modern glass style.",
+  "author": "Justin",
+  "version": "1.0",
+  "main": "hud.js",
+  "style": "style.css"
+}
