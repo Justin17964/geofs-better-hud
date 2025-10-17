@@ -1,0 +1,22 @@
+#better-hud {
+  position: fixed;
+  top: 10px;
+  right: 20px;
+  color: #00ffcc;
+  font-family: "Orbitron", sans-serif;
+  font-size: 16px;
+  text-shadow: 0 0 6px #00ffaa;
+  z-index: 9999;
+}
+
+.hud-box {
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid #00ffaa;
+  border-radius: 10px;
+  padding: 10px 15px;
+  backdrop-filter: blur(3px);
+}
+
+.hud-box div {
+  margin: 2px 0;
+}
